@@ -1,11 +1,11 @@
 {
   "installed": {
-    "client_id": "453024177213-1m1fspvg22k81gq4am9q45t4rqdhai41.apps.googleusercontent.com",
+    "client_id": "453024177213-9adj289uk10vh3o6n52ga58rk3flbig1.apps.googleusercontent.com",
     "project_id": "elemental-shine-354214",
     "auth_uri": "https://accounts.google.com/o/oauth2/auth",
     "token_uri": "https://oauth2.googleapis.com/token",
     "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-    "client_secret": "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",
+    "client_secret": "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",
     "redirect_uris": [
       "http://localhost"
     ]
